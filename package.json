@@ -1,0 +1,23 @@
+{
+  "name": "mf-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/captn3m0/mf-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/captn3m0/mf-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captn3m0/mf-portfolio.git"
+  },
+  "license": "MIT",
+  "author": "Nemo <mf@captnemo.in>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hybrid-crypto-js": "^0.2.4"
+  }
+}
